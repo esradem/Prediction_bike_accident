@@ -7,3 +7,4 @@ notebook/__pycache__/
 data/raw/wegvakgeografie_01012024.csv
 data/raw/ongevallen.txt
 data/raw/partijen.txt
+main.py
