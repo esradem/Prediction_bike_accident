@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
+notebook/.DS_Store
+notebook/__pycache__/
+data/raw/wegvakgeografie_01012024.csv
+data/raw/ongevallen.txt
+data/raw/partijen.txt
