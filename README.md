@@ -1,4 +1,4 @@
-## Predicting Future Bike Accident Hotspots in Amsterdam 
+# Predicting Future Bike Accident Hotspots in Amsterdam 
 
 ### Using HDBSCAN Clustering & Multi-Source Data Analysis
 
