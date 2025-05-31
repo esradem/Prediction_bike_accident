@@ -1,0 +1,65 @@
+
+        BIKE ACCIDENT HOTSPOT PREDICTION REPORT
+        =====================================
+        
+        ANALYSIS SUMMARY:
+        - Total accidents analyzed: 29,763
+        - Hotspot clusters identified: 170
+        - Weather years analyzed: 7
+        - Injury locations analyzed: 1,803
+        
+        TOP 5 PREDICTED FUTURE HOTSPOTS:
+        
+        1. Cluster 117 - Medium Risk
+           Location: (52.3666, 4.8848)
+           Prediction Score: 0.592
+           Historical Accidents: 1189
+           Weather Risk Factor: 0.561
+           Injury Risk Factor: 0.000
+        
+        2. Cluster 1 - Medium Risk
+           Location: (52.3034, 4.9680)
+           Prediction Score: 0.569
+           Historical Accidents: 404
+           Weather Risk Factor: 0.561
+           Injury Risk Factor: 0.000
+        
+        3. Cluster 162 - Medium Risk
+           Location: (52.3719, 4.8660)
+           Prediction Score: 0.551
+           Historical Accidents: 702
+           Weather Risk Factor: 0.561
+           Injury Risk Factor: 0.000
+        
+        4. Cluster 167 - Medium Risk
+           Location: (52.3811, 4.8429)
+           Prediction Score: 0.549
+           Historical Accidents: 249
+           Weather Risk Factor: 0.561
+           Injury Risk Factor: 0.000
+        
+        5. Cluster 133 - Medium Risk
+           Location: (52.3405, 4.9001)
+           Prediction Score: 0.534
+           Historical Accidents: 170
+           Weather Risk Factor: 0.561
+           Injury Risk Factor: 0.000
+        
+        
+        WEATHER ANALYSIS:
+        - Latest year analyzed: 2023
+        - Average temperature: 11.5°C
+        - Average precipitation: 2.3mm
+        - High-risk weather years: 0
+        
+        INJURY SEVERITY ANALYSIS:
+        - High-risk injury locations: 34
+        - Average injury rate: 0.544
+        - Locations with fatalities: 34
+        
+        RECOMMENDATIONS:
+        1. Focus safety interventions on high-risk predicted hotspots
+        2. Increase monitoring during adverse weather conditions
+        3. Implement targeted safety measures at locations with high injury severity
+        4. Consider seasonal and weekday patterns for resource allocation
+        
