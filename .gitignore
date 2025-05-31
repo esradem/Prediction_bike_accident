@@ -26,3 +26,4 @@ presentation/future_hotspots_mild_2025 copy.html
 presentation/future_hotspots_normal_2025 copy.html
 data/cleaned_02/
 .gitignore
+python/ignorefiles/
