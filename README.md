@@ -130,23 +130,6 @@ python visualize_results.py
 - Layer control for different visualization modes
 - Popup statistics for each hotspot cluster
 
-## Project Structure
-
-```
-bike-accident-hotspot-prediction/
-├── data/
-│   └── cleaned/
-│       ├── df_ams_cc.csv
-│       ├── yearly_wea.csv
-│       └── gdf_joined.csv
-├── predict_future_hotspots.py
-├── visualize_results.py
-├── requirements.txt
-├── README.md
-└── presentation/
-   
-```
-
 ## Technical Implementation
 
 ### BikeAccidentHotspotPredictor Class
