@@ -1,4 +1,6 @@
-# Bike Accident Hotspot Prediction in Amsterdam
+## Predicting Future Bike Accident Hotspots in Amsterdam 
+
+### Using HDBSCAN Clustering & Multi-Source Data Analysis
 
 A data-driven approach to predicting future bike accident hotspots using HDBSCAN clustering and multi-source data analysis.
 
