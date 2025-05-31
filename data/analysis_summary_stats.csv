@@ -1,2 +1,0 @@
-total_accidents,total_clusters,high_risk_predictions,medium_risk_predictions,low_risk_predictions,avg_prediction_score,max_prediction_score,avg_injury_rate,locations_with_fatalities
-29763,170,0,94,76,0.4059942224540239,0.5551769461839491,0.544388130203438,34
