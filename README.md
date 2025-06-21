@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Bike Accident Hotspot Prediction in Amsterdam
+=======
+# Predicting Future Bike Accident Hotspots in Amsterdam 
+
+### Using HDBSCAN Clustering & Multi-Source Data Analysis
+>>>>>>> b11cbc412a16f2f6571a16c77fccad82c66d4dbb
 
 A data-driven approach to predicting future bike accident hotspots using HDBSCAN clustering and multi-source data analysis.
 
@@ -128,6 +134,7 @@ python visualize_results.py
 - Layer control for different visualization modes
 - Popup statistics for each hotspot cluster
 
+<<<<<<< HEAD
 ## Project Structure
 
 ```
@@ -145,6 +152,8 @@ bike-accident-hotspot-prediction/
    
 ```
 
+=======
+>>>>>>> b11cbc412a16f2f6571a16c77fccad82c66d4dbb
 ## Technical Implementation
 
 ### BikeAccidentHotspotPredictor Class
