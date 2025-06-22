@@ -136,7 +136,6 @@ python visualize_results.py
 - Layer control for different visualization modes
 - Popup statistics for each hotspot cluster
 
-<<<<<<< HEAD
 ## Project Structure
 
 ```
@@ -250,7 +249,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## Contact
 
-For questions, suggestions, or collaboration opportunities, please open an issue in this repository.
+For questions, suggestions, or collaboration opportunities, contact me.
 
 ## Citation
 
