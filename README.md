@@ -8,6 +8,15 @@ A data-driven approach to predicting future bike accident hotspots using HDBSCAN
 
 This project analyzes 29,763 bike accidents in Amsterdam (2014-2023) to identify spatial hotspots and predict future accident-prone areas. By combining coordinate data, weather patterns, and injury severity information, the system generates actionable insights for urban safety planning.
 
+##  Project Goals
+
+-  Identify high-risk intersections and accident clusters  
+-  Analyze how weather and time affect bike accidents  
+-  Predict future hotspots using machine learning  
+-  Understand the relationship between accident severity and weather conditions
+
+---
+
 ## Key Features
 
 - **Spatial Clustering**: HDBSCAN algorithm identifies 170 distinct accident hotspots
@@ -45,6 +54,7 @@ This project analyzes 29,763 bike accidents in Amsterdam (2014-2023) to identify
 ### 2. HDBSCAN Clustering
 - Minimum cluster size: 50 accidents
 - Silhouette score: 0.486 (good clustering quality)
+- Mapped clusters using Folium
 - Noise point identification: 9,986 isolated incidents
 
 ### 3. Risk Assessment Model
@@ -53,6 +63,10 @@ The prediction model combines four components:
 - **Weather Risk (30%)**: Temperature, precipitation, wind, visibility factors
 - **Temporal Weight (20%)**: Recent year emphasis (2015+ weighted)
 - **Injury Risk (10%)**: Proximity to high-severity locations
+
+- Trained Random Forest & XGBoost classifiers  
+- Predicts whether a point is a future accident hotspot  
+- Factors: location, time, weather, injury severity
 
 ### 4. Future Prediction
 - Risk level classification: High (>0.7), Medium (0.4-0.7), Low (<0.4)
