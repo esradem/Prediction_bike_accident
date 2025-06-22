@@ -27,22 +27,14 @@ This project analyzes 29,763 bike accidents in Amsterdam (2014-2023) to identify
 
 ## Dataset Information
 
-### Primary Data Sources
+| Dataset          | Description                                                                |
+| ---------------- | -------------------------------------------------------------------------- |
+| `bike_data.csv`  | Raw bike accident records (2014–2023) including geolocation and timestamps |
+| `df_ams_cc.csv`  | Cleaned and clustered accident data with enriched features                 |
+| `df_wea.csv`     | Hourly weather data (temperature, wind, precipitation, visibility)         |
+| `gdf_joined.csv` | GeoDataFrame version of cleaned data for spatial plotting                  |
+| `yearly_wea.csv` | Aggregated yearly weather features used in prediction models               |
 
-1. **Coordinate Data (df_ams_cc.csv)**
-   - 29,765 accident records with GPS coordinates
-   - Street names and temporal information
-   - Geographic coverage: Amsterdam metropolitan area
-
-2. **Weather Data (yearly_wea.csv)**
-   - Temperature, precipitation, wind speed, and visibility
-   - Yearly aggregates from 2017-2023
-   - Risk factor analysis for accident prediction
-
-3. **Injury & Weekday Data (gdf_joined.csv)**
-   - Injury severity classifications (fatal, injury, damage-only)
-   - Weekday accident volume patterns
-   - 1,803 location records with severity metrics
 
 ## Methodology
 
