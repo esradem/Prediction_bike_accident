@@ -49,6 +49,11 @@ This project analyzes 29,763 bike accidents in Amsterdam (2014-2023) to identify
 - Mapped clusters using Folium
 - Noise point identification: 9,986 isolated incidents
 
+## Live Demo
+
+Check out the live site here shows all the clusters in the city: [View on GitHub Pages](https://esradem.github.io/Prediction_bike_accident/)
+
+
 ### 3. Risk Assessment Model
 The prediction model combines four components:
 - **Base Risk (40%)**: Historical accident frequency (log-transformed)
