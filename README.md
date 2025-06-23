@@ -215,8 +215,10 @@ The main analysis is implemented through a comprehensive class with the followin
 - No real-time traffic condition integration
 - Prediction horizon limited to one year
 # Live Demo of Future Hotspot mild weather conditions interactive map
- [View on GitHub Pages mild weather condition prediction of hotspots](https://esradem.github.io/Prediction_bike_accident/future_hotspots_mild_2025.html)
- [View on GitHub Pages normal weather condition prediction of hotspots](https://esradem.github.io/Prediction_bike_accident/future_hotspots_normal_2025.html)
+ [View on GitHub Pages mild weather condition prediction of hotspots](https://esradem.github.io/Prediction_bike_accident/future_hotspots_mild_2025.html)*
+ 
+ [View on GitHub Pages normal weather condition prediction of hotspots](https://esradem.github.io/Prediction_bike_accident/future_hotspots_normal_2025.html)*
+ 
 
  
 ## Contributing
